@@ -1,0 +1,13 @@
+#wrapper{
+    display: flex;
+    margin-bottom: 25px;
+}
+#img-wrapper{
+    margin-right: 50px;
+}
+#person-info button{
+    background-color: gainsboro;
+    padding: 5px;
+    margin-top: 10px;
+    border: none;
+}
